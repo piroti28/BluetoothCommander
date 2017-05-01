@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128237784247",
+    "firebase_url": "https://bluetoothcommander-db5e7.firebaseio.com",
+    "project_id": "bluetoothcommander-db5e7",
+    "storage_bucket": "bluetoothcommander-db5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128237784247:android:380faebdbe8101f5",
+        "android_client_info": {
+          "package_name": "jp.gr.java_conf.piropiroping.bluetoothcommander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128237784247-16ivqcp7qoqes8g4jv1jvhsmjedmpflf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsqbfpjIUi2Q4SqCXhqXdFpmaEXM1hi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
